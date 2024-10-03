@@ -1,6 +1,6 @@
 # Project Name
 
-**Course**: 24F_NET2008 DevOps  
+**Course**: DevOps  
 **Instructor**: Saad Inshi
 
 ## Table of Contents
