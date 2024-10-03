@@ -33,4 +33,4 @@ This is the first project for the DevOps course, 24F_NET2008. The purpose of thi
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/saadinshi/Git_DevOps.git
