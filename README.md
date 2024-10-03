@@ -13,7 +13,7 @@
 7. [License](#license)
 
 ## Introduction
-This is the first project for the DevOps course, 24F_NET2008. The purpose of this project is to apply the principles of DevOps, including continuous integration, continuous delivery, and version control practices. The project focuses on automating workflows and managing configurations effectively.
+This is the first project for the DevOps course. The purpose of this project is to apply the principles of DevOps, including continuous integration, continuous delivery, and version control practices. The project focuses on automating workflows and managing configurations effectively.
 
 ## Technologies Used
 - **Version Control**: Git and GitHub
